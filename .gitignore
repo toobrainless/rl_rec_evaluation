@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# data
+rl_rec_evaluation/data/processed/*
+rl_rec_evaluation/data/raw/*
